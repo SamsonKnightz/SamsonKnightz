@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonKnightz
 - 👀 I’m interested in finding the "White Rabbit"
-- 🌱 I’m currently learning server side api's
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate and listen
 
 <!---
