@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonKnightz
 - 👀 I’m interested in finding the "White Rabbit"
-- 🌱 I’m currently learning express
+- 🌱 I’m currently learning MYSQL
 - 💞️ I’m looking to collaborate and listen
 
 <!---
