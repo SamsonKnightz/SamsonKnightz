@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamsonKnightz
-- 👀 I’m interested in finding the "White Rabbit"
+- 👀 Looking for the "White Rabbit"
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate and listen
 
