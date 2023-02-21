@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonKnightz
 - 👀 Looking for the "White Rabbit"
-- 🌱 I’m currently learning STATE
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate and listen
 
 <!---
